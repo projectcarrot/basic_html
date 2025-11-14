@@ -1,0 +1,13 @@
+body { 
+  margin: 0; 
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color: #f8f5fa; 
+  color: #333; 
+}
+header { 
+  background-color: #d59de2; 
+  color: rgb(4, 54, 141);
+  font-size: 1.25em;
+  text-align: center; 
+  padding: 20px;
+} 
